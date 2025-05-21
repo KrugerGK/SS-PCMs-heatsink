@@ -10,7 +10,7 @@ The miniaturization and increased power of electronic devices have led to higher
 
 This code is part of the research paper:
 
-Arriaza-Echanes, C., Krüger Carrasco, G.I., Comesaña-Gándara, B., Terraza, C., Sanhueza, L., & Ortiz, P.A. (Year). “Evaluation of Imidazolium Ionenes as Solid-Solid Phase Change Materials for Heat Sinks.” *Polymers*. **[In Review]**
+Arriaza-Echanes, C., Krüger Carrasco, G.I., Comesaña-Gándara, B., Terraza, C., Sanhueza, L., & Ortiz, P.A. (2025). “Evaluation of Imidazolium Ionenes as Solid-Solid Phase Change Materials for Heat Sinks.” *Polymers*. **[In Review]**
 
 ## Hardware Requirements
 
@@ -70,7 +70,7 @@ Where:
 
 If you use this code or data from this repository in your research, please cite our publication:
 
-Arriaza-Echanes, C., Krüger Carrasco, G.I., Comesaña-Gándara, B., Terraza, C., Sanhueza, L., & Ortiz, P.A. (Year). “Evaluation of Imidazolium Ionenes as Solid-Solid Phase Change Materials for Heat Sinks.” *Polymers*. [In Review]
+Arriaza-Echanes, C., Krüger Carrasco, G.I., Comesaña-Gándara, B., Terraza, C., Sanhueza, L., & Ortiz, P.A. (2025). “Evaluation of Imidazolium Ionenes as Solid-Solid Phase Change Materials for Heat Sinks.” *Polymers*. [In Review]
 
 You can also cite this repository directly:
 
