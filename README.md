@@ -74,7 +74,7 @@ Arriaza-Echanes, C., Krüger Carrasco, G.I., Comesaña-Gándara, B., Terraza, C.
 
 You can also cite this repository directly:
 
-Arriaze-Echanes C. *et al.* (2025). *SS-PCMs-heatsink: Code for the evaluation of imidazolium ionenes as SS-PCMs in heat sinks*.
+Arriaze-Echanes C. *et al.* (2025). *SS-PCMs-heatsink: Code for the evaluation of imidazolium ionenes as SS-PCMs in heat sinks*. https://github.com/KrugerGK/SS-PCMs-heatsink
 
 ## License
 
